@@ -1,2 +1,2 @@
 # HacktoberFest-2020
-Repo for hacktoberfest.
+Repository for hacktoberfest.
